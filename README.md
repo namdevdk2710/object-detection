@@ -10,7 +10,7 @@ The Object Detection project is aimed at identifying objects within images. By l
 
 ## Introduction
 
-This project centers on the practical implementation of AI applications using Streamlit. Streamlit is an open-source Python library designed to simplify the creation and sharing of custom web apps for machine learning and data science. Within this project, you'll discover an application that provides correct spelling suggestions for input words by utilizing the Levenshtein distance algorithm.
+This project is dedicated to the practical development of AI-driven applications using Streamlit, an open-source tool that facilitates the creation and deployment of web apps specifically designed for machine learning and data science initiatives. The centerpiece of this project is a web application capable of identifying and classifying objects within images in real-time, utilizing advanced machine learning models and computer vision techniques. This functionality is vital for a multitude of applications, such as autonomous vehicles, security surveillance systems, and augmented reality platforms, where accurate and immediate understanding of the visual environment is paramount.
 
 ## Installation
 
